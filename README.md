@@ -5,7 +5,7 @@ Hi! I am Ioana, a passionate soul, especially when it comes to software testing 
 # How To Reach Me
 
 <a href = "https://www.linkedin.com/in/ioana-rosca/">
-  <img src = "C:\Users\Ioana\Desktop\CV\Logos\LinkedIn.png" width = "auto" height = "50px" />
+  <img src = "Logos/LinkedIn.png" width = "50px" height = "50px" />
 </a>
 
 # Stats

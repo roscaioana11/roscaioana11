@@ -15,7 +15,7 @@ Hi! I am Ioana, a passionate soul, especially when it comes to software testing 
 </a>
 
 <a href = "https://github.com/roscaioana11?tab=repositories">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=roscaioana11&langs_count=10&theme=react$layout=compact&card_width=270" align = "center" />
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=roscaioana11&langs_count=10&count_private=true&theme=react$layout=compact&card_width=270" align = "center" />
 </a>
 
 <!--

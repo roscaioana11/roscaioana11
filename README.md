@@ -2,13 +2,13 @@
 
 Hi! I am Ioana, a passionate soul, especially when it comes to software testing and development. I seek personal and professional growth.
 
-#How To Reach Me
+# How To Reach Me
 
 <a href = "https://www.linkedin.com/in/ioana-rosca/">
-  <img src = "Logos/LinkedIn.png" width = "auto" height = "50px" />
+  <img src = "C:\Users\Ioana\Desktop\CV\Logos\LinkedIn.png" width = "auto" height = "50px" />
 </a>
 
-#Stats
+# Stats
 
 <a href = "https://github.com/roscaioana11?tab=repositories">
   <img src = "https://github-readme-stats.vercel.app/api?username=roscaioana11&count_private=true&show_icon=true&theme=dark&include_all_commits=true" align = "center" />

@@ -12,6 +12,10 @@ Hi! I am Ioana, a passionate soul, especially when it comes to software testing 
   <img src = "Logos/HackerRank.png" width = "50px" height = "50px" />
 </a>
 
+<a href = "https://ioanarosca.itch.io/">
+  <img src = "Logos/itch.png" width = "50px" height = "50px" />
+</a>
+
 # Stats
 
 <a href = "https://github.com/roscaioana11?tab=repositories">

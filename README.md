@@ -9,7 +9,7 @@ Hi! I am Ioana, a passionate soul, especially when it comes to software testing 
 </a>
 
 <a href = "https://www.hackerrank.com/rosca_ioana11/">
-  <img src = "Logos/HackerRank.png" width = "50px" height = "50px" />
+  <img src = "Logos/HackerRank.png" width = "100px" height = "100px" />
 </a>
 
 # Stats

@@ -2,10 +2,14 @@
 
 Hi! I am Ioana, a passionate soul, especially when it comes to software testing and development. I seek personal and professional growth.
 
-# How To Reach Me
+# How To Reach Me & Personal Achievements
 
 <a href = "https://www.linkedin.com/in/ioana-rosca/">
   <img src = "Logos/LinkedIn.png" width = "50px" height = "50px" />
+</a>
+
+<a href = "https://www.hackerrank.com/rosca_ioana11/">
+  <img src = "Logos/HackerRank.png" width = "50px" height = "50px" />
 </a>
 
 # Stats

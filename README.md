@@ -1,4 +1,8 @@
-# About Me
+<h1 align="center">
+ <img src="Logos/banner.png" />
+</h1>
+
+## About Me
 
 Hi! My name is Ioana. I am a passionate soul, especially when it comes to software development and testing. I seek personal and professional growth. My vision for the future is to discover and learn of this wonderful tech world everyday, making connections with the people around me and from other cultures. The foundation of the way I live my life are my core values: respect, honesty, friendship, passion and determination.
 Giving up was never an option for me!

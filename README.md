@@ -32,7 +32,6 @@ Giving up was never an option for me!
 ![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=white&color=0E83C8)
 ![](https://img.shields.io/badge/Framework-Spring-informational?style=flat&logo=spring&logoColor=white&color=0E83C8)
 ![](https://img.shields.io/badge/Framework-Vue.js-informational?style=flat&logo=vue.js&logoColor=white&color=0E83C8)
-<!-- ![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=white&color=0E83C8) -->
 ![](https://img.shields.io/badge/Build_Tool-Gradle-informational?style=flat&logo=gradle&logoColor=white&color=0E83C8)
 ![](https://img.shields.io/badge/Build_Tool-Maven-informational?style=flat&logo=apache-maven&logoColor=white&color=0E83C8)
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=0E83C8)
@@ -44,6 +43,7 @@ Giving up was never an option for me!
 ![](https://img.shields.io/badge/Containerization-Docker-informational?style=flat&logo=docker&logoColor=white&color=0E83C8)
 ![](https://img.shields.io/badge/Engine-Unity-informational?style=flat&logo=unity&logoColor=white&color=0E83C8)
 <!-- ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>) -->
+<!-- ![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=white&color=0E83C8) -->
 
 ## &#x1f4c8; GitHub Stats
 

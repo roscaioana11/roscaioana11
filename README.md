@@ -21,6 +21,10 @@ Giving up was never an option for me!
   <img src = "Logos/itch.png" width = "50px" height = "50px" />
 </a>
 
+<a href = "https://codepen.io/roscaioana11/">
+  <img src = "Logos/codepen-logo.png" width = "48px" height = "48px" />
+</a>
+
 ## 🔧Technologies & Tools
 
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=0E83C8)

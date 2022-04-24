@@ -22,7 +22,7 @@ Giving up was never an option for me!
 </a>
 
 <a href = "https://codepen.io/roscaioana11/">
-  <img src = "Logos/codepen-logo.png" width = "48px" height = "48px" />
+  <img src = "Logos/codepen-logo.png" width = "50px" height = "50px" />
 </a>
 
 ## 🔧Technologies & Tools
